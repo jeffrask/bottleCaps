@@ -1,0 +1,45 @@
+{
+  "ProjectName": "bottleCaps",
+  "ProjectGuid": "6703e0af-ba4b-4f72-b271-c98d6a7ee0d9",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.bottleCaps",
+  "DisplayName": "bottleCaps",
+  "Author": "",
+  "Description": "bottleCaps",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{85a385d0-3520-45df-bf6f-bb1adc079d96}",
+  "WP8ProductID": "{27ae9ff8-c5b0-4f84-bae7-ea01b9352f79}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.bottleCaps",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
